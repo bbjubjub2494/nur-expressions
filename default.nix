@@ -20,8 +20,6 @@ let
 
   semiphemeral = pkgs.python3Packages.callPackage pkgs/semiphemeral {};
 
-  teck-programmer = pkgs.teck-programmer;  # alias added 2021-07-19
-
   yaru-mixed-theme = self.yaru-classic-theme;  # alias added 2021-10-02
 };
 in self
