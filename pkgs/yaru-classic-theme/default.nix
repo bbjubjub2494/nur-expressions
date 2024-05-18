@@ -42,6 +42,6 @@ stdenv.mkDerivation rec {
     homepage = "https://github.com/bbjubjub2494/yaru-classic";
     license = with licenses; [ cc-by-sa-40 gpl3Plus lgpl21Only lgpl3Only ];
     platforms = platforms.linux;
-    maintainers = with maintainers; [ bbjubjub ];
+    #maintainers = with maintainers; [ bbjubjub ];
   };
 }
