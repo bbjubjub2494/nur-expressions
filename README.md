@@ -1,7 +1,5 @@
 # My humble additions to the [NUR](https://github.com/nix-community/NUR)
 
-[![Build Status](https://travis-ci.org/bbjubjub2494/nur-expressions.svg?branch=master)](https://travis-ci.org/bbjubjub2494/nur-expressions)
-
 ## Highlights
 
 ### OnionShare
