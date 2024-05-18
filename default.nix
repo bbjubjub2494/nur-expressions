@@ -16,6 +16,8 @@ let
   modules = import ./modules; # NixOS modules
   overlays = import ./overlays; # nixpkgs overlays
 
+  ocrodjvu = "please see https://github.com/NixOS/nixpkgs/pull/277773";
+
   semiphemeral = pkgs.python3Packages.callPackage pkgs/semiphemeral {};
 
   teck-programmer = pkgs.teck-programmer;  # alias added 2021-07-19
