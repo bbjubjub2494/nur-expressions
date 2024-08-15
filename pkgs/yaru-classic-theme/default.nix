@@ -22,7 +22,7 @@ stdenv.mkDerivation rec {
     owner = "bbjubjub2494";
     repo = "yaru-classic";
     rev = version;
-    sha256 = "sha256-XFZgtppLS81c2/1GgFjjImzqo6fCd6eiUmD2P+E86yY=";
+    sha256 = "sha256-jYY0WgjJvlD9bCQyBVBfMxuDDwYNWit+H6QGLbRjE6c=";
   };
 
   nativeBuildInputs = [ meson sassc pkg-config glib ninja python3 ];
